@@ -26,7 +26,3 @@ steps:
     pathToPublish: '$(build.artifactStagingDirectory)'
     artifactName: 'drop'
     artifactType: 'container'
-
-artifactType: 'container'
-ontainer'
-er'
